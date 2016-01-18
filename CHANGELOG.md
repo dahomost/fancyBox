@@ -1,17 +1,17 @@
 fancyBox - Changelog
 =========
 
-### Version 2.1.5 - June 14, 2013
+## Version 2.1.5 - June 14, 2013
 * Fixed #493 - Broken slideshow
 * Fixed #556 - Parent option
 * Retina graphics (#564) and retina display support (#420)
 * Improved "lock" feature
 
-### Version 2.1.4 - January 10, 2013
+## Version 2.1.4 - January 10, 2013
 * Update to be compatible with jQuery v1.9
 * Small changes that should fix usability issues for certain users
 
-### Version 2.1.3 - October 23, 2012
+## Version 2.1.3 - October 23, 2012
 
 * Fixed #426 - Broken IE7
 * Fixed #423 - Background flickering on iOS
@@ -19,7 +19,7 @@ fancyBox - Changelog
 * Updated the script to work with jQuery 1.6
 * Media helper supports YouTube video series
 
-### Version 2.1.2 - October 15, 2012
+## Version 2.1.2 - October 15, 2012
 
 * Fixed #414 - Don't allow nextClick if there is only one item
 * Fixed #397 - Button helper 'Menu' not visible in IE7
