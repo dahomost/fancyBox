@@ -2,10 +2,10 @@ fancyBox - Changelog
 =========
 
 ## Version 2.1.5 - June 14, 2013
-* Fixed #493 - Broken slideshow
-* Fixed #556 - Parent option
-* Retina graphics (#564) and retina display support (#420)
-* Improved "lock" feature
+** Fixed #493 - Broken slideshow
+** Fixed #556 - Parent option
+** Retina graphics (#564) and retina display support (#420)
+** Improved "lock" feature
 
 ## Version 2.1.4 - January 10, 2013
 * Update to be compatible with jQuery v1.9
